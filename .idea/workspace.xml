@@ -2,6 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e248963-9638-4509-8485-01a2f5e384b9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/clients/client-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/clients/client-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/clients/client-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/clients/client-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/clients/client-5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/clients/client-6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/clients/client-7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/clients/client-8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/etc/whatsapp_icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/etc/whatsapp_icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logo/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/logo/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/services/crm_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/services/crm_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/services/ecommerce_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/services/ecommerce_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/services/graphic_deisgning_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/services/graphic_deisgning_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/services/iot_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/services/online_marketing_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/services/online_marketing_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/services/social_media_marketing_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/services/social_media_marketing_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/services/software_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/services/software_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/services/website_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/services/website_1.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,11 +36,12 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img/logo" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/img/logo" />
+      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -50,7 +70,7 @@
       <workItem from="1568307455766" duration="3077000" />
       <workItem from="1568358140481" duration="29000" />
       <workItem from="1568902478924" duration="795000" />
-      <workItem from="1568909562570" duration="720000" />
+      <workItem from="1568909562570" duration="3297000" />
     </task>
     <servers />
   </component>
